@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanaparthiphani1&show_icons=true&locale=en&layout=compact" alt="kanaparthiphani1" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kanaparthiphani1&" alt="kanaparthiphani1" /></p>
+
+[![Kanaparthi_Phani GithubStats](https://github-readme-stats.vercel.app/api?username=kanaparthiphani1&&theme=radical)](https://github.com/kanaparthiphani1/github-readme-stats)
