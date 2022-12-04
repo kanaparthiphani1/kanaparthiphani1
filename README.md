@@ -4,9 +4,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on **covid19dashboard** project
+- 🔭 I’m currently working on **Spotify Clone** project
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **kanaparthiphani0@gmail.com**
 
