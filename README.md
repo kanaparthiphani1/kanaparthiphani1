@@ -4,9 +4,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Spotify Clone** project
+- 🔭 I’m currently working on **Ecommerce Backend Nodejs** project
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m also learning **DSA**
 
 - 📫 How to reach me **kanaparthiphani0@gmail.com**
 
@@ -35,7 +35,6 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=whit)
