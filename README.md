@@ -4,9 +4,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Ecommerce Backend Nodejs** project
-
-- 🌱 I’m also learning **DSA**
+- 🌱 I’m currently learning **Low Level Design**
 
 - 📫 How to reach me **kanaparthiphani0@gmail.com**
 
