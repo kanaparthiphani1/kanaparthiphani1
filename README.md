@@ -43,12 +43,6 @@
   <img src="https://profile-counter.glitch.me/kanaparthiphani1/count.svg" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kanaparthi-phani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanaparthi-phani" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kanaparthiphani0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kanaparthiphani0" height="30" width="40" /></a>
-</p>
-
 <br/>
 
 ------
