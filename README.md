@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Low Level Design**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **kanaparthiphani0@gmail.com**
 
